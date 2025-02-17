@@ -20,7 +20,16 @@
       <td>Fashion Look is a simple website designed using HTML and CSS.</td>
       <td><a href="https://janitkapdiya.github.io/FrontNest/1.%20Fashion%20Look" target="_blank">View</a></td>
       <td>16-Feb-2025</td>
-      <td>18-Feb-2025</td>
+      <td>17-Feb-2025</td>
+    </tr>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>Shop Jacket</td>
+      <td>Shop Jacket is a simple website designed using HTML and CSS.</td>
+      <td><a href="" target="_blank">View</a></td>
+      <td>17-Feb-2025</td>
+      <td>...</td>
     </tr>
   </tbody>
 </table>
