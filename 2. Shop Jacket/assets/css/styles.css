@@ -20,7 +20,7 @@ html,body{
 }
 
 nav{
-    height: 10%;
+    height: 15%;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -88,20 +88,19 @@ nav h4{
     font-size: 25px;
     font-weight: 100;
     opacity: 0;
+    text-decoration: none;
 }
 
 .element:hover i{
     opacity: 100;
 }
 
-.element:hover{
-    background-color: whitesmoke;
-}
+
 
 .home__image{
     width: 100%;
-    height: 50%;
-    background-image: url(https://images.unsplash.com/photo-1602825501647-8807655721ce?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-    object-fit: cover;
-    ba
+    height: 65%;
+    background-image: url(https://images.unsplash.com/photo-1517101552363-df64abce174a?q=80&w=2003&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: 100%;
+    background-position: 100px;
 }
