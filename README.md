@@ -27,7 +27,7 @@
       <td>2</td>
       <td>Shop Jacket</td>
       <td>Shop Jacket is a simple website designed using HTML and CSS.</td>
-      <td><a href="" target="_blank">View</a></td>
+      <td><a href="https://janitkapdiya.github.io/FrontNest/2.%20Shop%20Jacket/" target="_blank">View</a></td>
       <td>17-Feb-2025</td>
       <td>...</td>
     </tr>
