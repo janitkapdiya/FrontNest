@@ -22,7 +22,6 @@
       <td>16-Feb-2025</td>
       <td>17-Feb-2025</td>
     </tr>
-  <tbody>
     <tr>
       <td>2</td>
       <td>Shop Jacket</td>
@@ -30,6 +29,14 @@
       <td><a href="https://janitkapdiya.github.io/FrontNest/2.%20Shop%20Jacket/" target="_blank">View</a></td>
       <td>17-Feb-2025</td>
       <td>18-Feb-2025</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>A Cotton Weave</td>
+      <td>A Cotton Weave is a simple website designed using HTML and CSS.</td>
+      <td><a href="https://janitkapdiya.github.io/FrontNest/3.%20A%20Cotton%20Weave/" target="_blank">View</a></td>
+      <td>24-Feb-2025</td>
+      <td>25-Feb-2025</td>
     </tr>
   </tbody>
 </table>
