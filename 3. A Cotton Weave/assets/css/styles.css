@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", serif;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 90px;
+    padding-top: 130px;
+    gap: 50px;
+}
+
+.text__section{
+    width: 48%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    /* background-color: violet; */
+}
+
+.title{
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 100px;
+}
+
+.description{
+    /* background-color: wheat; */
+    height: 40%;
+    width: 100%;
+}
+
+.color{
+    /* background-color: tomato; */
+    width: fit-content;
+    padding: 5px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    border: 2.5px solid #000000;
+}
+
+.color h5{
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.color1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 5px;
+    background-color: brown;
+}
+
+.color2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: khaki;
+}
+
+.description h2{
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.description p{
+
+    font-size: 20px;
+    line-height: 25px;
+    width: 60%;
+    font-weight: 400;
+    color: #444444;
+}
+
+
+.image__section{
+    /* background-color: tomato; */
+    width: 34%;
+    height: 100%;
+    position: relative;
+}
+
+.image__top{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image__top h4{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.image__top h5{
+    font-size: 15px;
+}
+
+.image__section img{
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}
+
+.cta{
+    height: 150px;
+    width: 150px;
+    background-color: #252525;
+    color: #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 20%;
+    right: -15%;
+}
+
+.cta h5{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.rotated{
+    position: absolute;
+    left: -10%;
+    bottom: 6%;
+    font-weight: 500;
+    font-size: 30px;
+    rotate: -90deg;
+    transform-origin: 0 0;
+}
